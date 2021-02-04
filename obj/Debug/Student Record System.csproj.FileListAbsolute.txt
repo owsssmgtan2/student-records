@@ -1,0 +1,89 @@
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student Record System.csprojResolveAssemblyReference.cache
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student_Record_System.Form1.resources
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student_Record_System.Properties.Resources.resources
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.GenerateResource.Cache
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student Record System.exe
+c:\users\hiroomi\documents\visual studio 2012\Projects\Student Record System\Student Record System\obj\Debug\Student Record System.pdb
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student Record System.exe
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student Record System.pdb
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student Record System.csprojResolveAssemblyReference.cache
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.Form1.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.Properties.Resources.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.GenerateResource.Cache
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student Record System.csprojResolveAssemblyReference.cache
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student_Record_System.Form1.resources
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student_Record_System.Properties.Resources.resources
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student_Record_System.registration.resources
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewclient.resources
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.GenerateResource.Cache
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student Record System.exe
+D:\BERTOW\3RD YEAR ~\2ND SEM\C#\Final Project\Student Record System\Student Record System\obj\Debug\Student Record System.pdb
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.registration.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewclient.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.registration_teacher.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewclient2.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey2.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewsubject.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey3.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.addViewSubject.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.addviewteachersubject.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.semviewer.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.login.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.signup.resources
+C:\Users\owsssmgtan\Desktop\Student Record System\Student Record System\obj\Debug\Student_Record_System.menu.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student Record System.exe
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student Record System.pdb
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student Record System.csprojResolveAssemblyReference.cache
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.addViewSubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.addviewteachersubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey2.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.deleteKey3.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.Form1.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.login.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.menu.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.Properties.Resources.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.registration.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.registration_teacher.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.semviewer.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.signup.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewclient.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewclient2.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student_Record_System.viewsubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.GenerateResource.Cache
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\bin\Debug\Student Record System.exe.config
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student Record System.exe
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student Record System.pdb
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\bin\Debug\Student Record System.exe
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\bin\Debug\Student Record System.pdb
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student Record System.csprojResolveAssemblyReference.cache
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.addViewSubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.addviewteachersubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.deleteKey.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.deleteKey2.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.deleteKey3.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.Form1.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.login.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.menu.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.Properties.Resources.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.registration.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.registration_teacher.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.semviewer.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.signup.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.viewclient.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.viewclient2.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student_Record_System.viewsubject.resources
+D:\School Files\SYSTEMS, APPS, SITES, PROJECTS\Student Record System - C#\Student Record System\obj\Debug\Student Record System.csproj.GenerateResource.Cache
